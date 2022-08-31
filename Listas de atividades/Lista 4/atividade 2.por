@@ -1,9 +1,10 @@
 programa
 {
 	
-	funcao inicio(){
+	funcao inicio()
+{
 
-		inteiro n, soma=0, cont
+		inteiro n, soma=0
 
 		para(n=1; n<=500; n++){
 			se(n%2==1){
